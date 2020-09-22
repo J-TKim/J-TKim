@@ -3,6 +3,12 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=J-TKim.visitor-badge)
 
+
+
+
+
+[![JT's github stats](https://github-readme-stats.vercel.app/api?username=J-TKim&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **J-TKim/J-TKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
