@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
+
+
 <!--
 **J-TKim/J-TKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
