@@ -12,7 +12,7 @@ I ❤️ to study about Machine Learning and Deep Learning.
    
 🌱 I’m currently researching about GAN, Classification of emotion images
 - GAN : [repo](https://github.com/J-TKim/Gans_in_action)
-- Classification of emotion images : [repo](https://github.com/J-TKim/)
+- Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)
 
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
