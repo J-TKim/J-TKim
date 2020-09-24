@@ -6,7 +6,7 @@
 
 ### Kim, Jeong Tae 👋
 
-I ❤️ to study about Machine Learning and Deep Learning.   
+I ❤️ to study about Machine Learning and Deep Learning   
    
 💪 My major is Mathematics & Computer engineering 😄
    
