@@ -17,6 +17,7 @@ I ❤️ to study about Machine Learning and Deep Learning
 
 📖 I'm currently studing about Python_recommender_system
 - Python_recommender_system : [repo](https://github.com/J-TKim/Python_recommender_system.git)
+- Python web crawller : [repo](https://github.com/J-TKim/Python_web_crawller.git)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=J-TKim.visitor-badge)
