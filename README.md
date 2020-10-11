@@ -5,7 +5,6 @@
 </div>
 
 ### Kim, Jeong Tae 👋
-* Email : <kkkd991020@naver.com>        
 
 I ❤️ to study about Machine Learning and Deep Learning   
    
