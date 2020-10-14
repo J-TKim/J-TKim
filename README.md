@@ -14,8 +14,7 @@ I ❤️ to study about Machine Learning and Deep Learning
 - Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)   
 
 
-📖 I'm currently studing about Python_recommender_system
-- GAN : [repo](https://github.com/J-TKim/Gans_in_action)
+📖 I am currently studying the following things
 - Python_recommender_system : [repo](https://github.com/J-TKim/Python_recommender_system.git)
 - Python web crawller : [repo](https://github.com/J-TKim/Python_web_crawller.git)
 
