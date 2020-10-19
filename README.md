@@ -13,6 +13,9 @@ I ❤️ to study about Machine Learning and Deep Learning
 🌱 I’m currently researching about GAN, Classification of emotion images
 - Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)   
 
+🍀 For midterm exam
+- [Deep_Learning_from_Scratch](https://github.com/J-TKim/Deep_Learning_from_Scratch)
+- [Data_mining_for_business](https://github.com/J-TKim/Data_mining_for_business)
 
 📖 I am currently studying the following things
 - Python_recommender_system : [repo](https://github.com/J-TKim/Python_recommender_system.git)
