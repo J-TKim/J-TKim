@@ -10,7 +10,7 @@ I ❤️ to study about Machine Learning and Deep Learning
    
 💪 My major is Mathematics & Computer engineering 😄
    
-🌱 I’m currently researching about GAN, Classification of emotion images
+🌱 I’m currently researching about Classification of emotion images
 - Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)   
 
 📖 I am currently studying the following things
