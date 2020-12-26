@@ -11,7 +11,7 @@ I ❤️ to study about Machine Learning and Deep Learning
 💪 My major is Mathematics & Computer engineering 😄
    
 🌱 I’m currently researching about Classification of emotion images
-- Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)   
+- Classification of emotion images : [repo](https://github.com/Classification-of-emotion-images/J-TKim)   
 
 📖 I am currently studying the following things
 - Python_recommender_system : [repo](https://github.com/J-TKim/Python_recommender_system.git)
