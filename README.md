@@ -6,6 +6,8 @@
 
 ### Kim, Jeong Tae 👋
 
+[J-TKim.github.io](https://j-tkim.github.io)
+
 I ❤️ to study about Machine Learning and Deep Learning   
    
 💪 My major is Mathematics & Computer engineering 😄
