@@ -16,9 +16,7 @@ I ❤️ to study about Machine Learning and Deep Learning
 - Classification of emotion images : [repo](https://github.com/Classification-of-emotion-images/J-TKim)   
 
 📖 I am currently studying the following things
-- Python_recommender_system : [repo](https://github.com/J-TKim/Python_recommender_system.git)
-- Python web crawller : [repo](https://github.com/J-TKim/Python_web_crawller.git)
-- Jump_to_Django : [repo](https://github.com/J-TKim/Jump_to_Django)
+- Deep_Learning_Go : [Reinforcement learning with Go](https://github.com/J-TKim/Deep_Learning_Go.git)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=J-TKim.visitor-badge)
