@@ -22,6 +22,8 @@ I ❤️ to study about Machine Learning and Deep Learning
 - Deep_Learning_Go : [Reinforcement learning with Go](https://github.com/J-TKim/Deep_Learning_Go.git)
 -->
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aijt/)](https://www.linkedin.com/in/aijt/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008175373869)](https://www.facebook.com/profile.php?id=100008175373869)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=J-TKim.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongtaeai@gmail.com)](mailto:jeongtaeai@gmail.com)
