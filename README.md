@@ -6,7 +6,7 @@
 
 ### Kim, Jeong Tae 👋
 
-[Here](https://docs.google.com/uc?export=download&id=1wVApRpLyTlLERckLoYXiw2IJvRp8LGiy) is my CV   
+[Here](https://docs.google.com/uc?export=download&id=1KuQ-7SChkUOSNwAOG896AdT1ljvjzEf9) is my CV   
           
 [J-TKim.github.io](https://j-tkim.github.io)    
 
