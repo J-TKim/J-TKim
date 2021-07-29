@@ -6,8 +6,7 @@
 
 ### Kim, Jeong Tae 👋
 
-[Here](https://docs.google.com/uc?export=download&id=1zSnhiBK90VnGGLutJXajjEo2Yrm6AaHe) is my CV   
-
+[Here](https://docs.google.com/uc?export=download&id=12G90EcPz18px_UpK4v82298Oh6iDQ64w) is my CV
 [J-TKim.github.io](https://j-tkim.github.io)    
 
 I ❤️ to study about Machine Learning and Deep Learning   
