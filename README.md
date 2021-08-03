@@ -11,12 +11,11 @@ GitBlog : [J-TKim.github.io](https://j-tkim.github.io)
 Notion : [Notion](https://rare-salute-cda.notion.site/6ad0ad0fa75a432798e6e7c46c41c79c)     
     
 
-I ❤️ to study about Machine Learning and Deep Learning   
+I ❤️ to study about MLOps and Data Engineering  
    
 💪 My major is Mathematics & Computer engineering 😄
    
-🌱 I’m currently researching about Classification of emotion images
-- Classification of emotion images : [repo](https://github.com/Classification-of-emotion-images/J-TKim)   
+🌱 I’m currently researching about Fake review Classification (NLP)
 
 <!--
 📖 I am currently studying the following things
