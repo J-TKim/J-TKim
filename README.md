@@ -6,8 +6,10 @@
 
 ### Kim, Jeong Tae 👋
 
-[Here](https://docs.google.com/uc?export=download&id=12G90EcPz18px_UpK4v82298Oh6iDQ64w) is my CV
-[J-TKim.github.io](https://j-tkim.github.io)    
+[Here](https://docs.google.com/uc?export=download&id=12G90EcPz18px_UpK4v82298Oh6iDQ64w) is my CV     
+GitBlog : [J-TKim.github.io](https://j-tkim.github.io)       
+Notion : [Notion](https://rare-salute-cda.notion.site/6ad0ad0fa75a432798e6e7c46c41c79c)     
+    
 
 I ❤️ to study about Machine Learning and Deep Learning   
    
