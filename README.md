@@ -15,7 +15,7 @@ I ❤️ to study about MLOps and Data Engineering
    
 💪 My major is Mathematics & Computer engineering 😄
    
-🌱 I’m currently researching about Fake review Classification (NLP)
+🌱 I’m currently researching about Hadoop, Spark, Kafka, DevOps!
 
 <!--
 📖 I am currently studying the following things
