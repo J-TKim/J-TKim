@@ -11,11 +11,11 @@ GitBlog : [J-TKim.github.io](https://j-tkim.github.io)
 국문이력서 : [데이터 풀스택이 되고싶은 개발자, 김정태 입니다.](https://rare-salute-cda.notion.site/6ad0ad0fa75a432798e6e7c46c41c79c)     
     
 
-I ❤️ to study about MLOps and Data Engineering  
+I ❤️ to study about Data Engineering  
    
 💪 My major is Mathematics & Computer engineering 😄
    
-🌱 I’m currently researching about Hadoop, Spark, Kafka, DevOps!
+🌱 I’m currently researching about Data Infra!
 
 <!--
 📖 I am currently studying the following things
