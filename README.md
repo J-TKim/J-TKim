@@ -12,7 +12,7 @@ GitBlog : [J-TKim.github.io](https://j-tkim.github.io)
     
 
 I ❤️ to study about Data Engineering  
-   
+I ❤️ Betwoon
 💪 My major is Mathematics & Computer engineering 😄
    
 🌱 I’m currently researching about Data Infra!
