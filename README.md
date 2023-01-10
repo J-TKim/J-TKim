@@ -6,10 +6,6 @@
 
 ### Kim, Jeong Tae 👋
 
-[Here](https://docs.google.com/uc?export=download&id=12G90EcPz18px_UpK4v82298Oh6iDQ64w) is my CV     
-GitBlog : [J-TKim.github.io](https://j-tkim.github.io)       
-국문이력서 : [데이터 풀스택이 되고싶은 개발자, 김정태 입니다.](https://rare-salute-cda.notion.site/6ad0ad0fa75a432798e6e7c46c41c79c)     
-    
 
 I ❤️ to study about Data Engineering  
    
